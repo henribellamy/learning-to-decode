@@ -8,7 +8,7 @@
 
 This repository showcases a three-year deep learning research project: teaching neural networks to replace hand-crafted algorithms, learning complex sequential decision processes end-to-end, from data alone.
 
-The testbed is a hard sequence-modeling problem: recovering information corrupted by noise. Classical solutions rely on intricate, iterative, provably-optimal algorithms. The question driving the project: **can a neural network learn these algorithms from scratch, match their accuracy, and outperform them on speed through massive parallelization?**
+The testbed is a hard sequence-modeling problem: recovering information corrupted by noise. Classical solutions rely on intricate, iterative, provably-optimal algorithms. The question driving the project: can a neural network learn these algorithms from scratch, match their accuracy, and outperform them on speed through massive parallelization?
 
 The answer, built up over four increasingly ambitious models, is yes: a fully neural system that matches an optimal iterative algorithm while decoding thousands of sequences in a single GPU pass.
 
