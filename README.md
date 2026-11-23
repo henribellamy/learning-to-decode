@@ -2,7 +2,7 @@
 
 *End-of-studies deep learning project · Safran Data Systems (2023–2026)*
 
-> **Note:** this repository is a public showcase of the project. Most of the work was carried out in a corporate setting and remains confidential. Only the parts that can be shared are published here: the first model (DeepViterbi, with its code and full report) and an overview of the final system (DeepTurbo). The DeepTurbo source code and notebooks are confidential, but the work and its results are summarized in a two-page executive summary ([`summary.pdf`]([DeepTurbo/summary.pdf](https://github.com/henribellamy/learning-to-decode/blob/main/DeepTurbo/Summary.pdf))).
+> **Note:** this repository is a public showcase of the project. Most of the work was carried out in a corporate setting and remains confidential. Only the parts that can be shared are published here: the first model (DeepViterbi, with its code and full report) and an overview of the final system (DeepTurbo). The DeepTurbo source code and notebooks are confidential, but the work and its results are summarized in a two-page executive summary ([`summary.pdf`]([[DeepTurbo/summary.pdf](https://github.com/henribellamy/learning-to-decode/blob/main/DeepTurbo/Summary.pdf)](https://github.com/henribellamy/learning-to-decode/blob/main/DeepTurbo/Summary.pdf))).
 
 ***
 
