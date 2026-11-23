@@ -2,7 +2,7 @@
 
 *A fully neural iterative system, parallelized on GPU: the project's culmination*
 
-> **Note:** the DeepTurbo source code, notebooks and trained models were developed in a corporate setting and are confidential. This folder describes the approach and results; the full work is summarized in the two-page executive summary [`summary.pdf`](summary.pdf).
+> **Note:** the DeepTurbo source code, notebooks and trained models were developed in a corporate setting and are confidential. This folder describes the approach and results; the full work is summarized in the two-page executive summary [`Summary.pdf`](Summary.pdf).
 
 ***
 
