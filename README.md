@@ -63,4 +63,4 @@ Bidirectional recurrent architectures (GRU, RNN) and 1D convolutions · supervis
 ## Contact
 
 **Henri Bellamy**
-[LinkedIn](https://www.linkedin.com/in/henri-bellamy-232b5b28a/) · [henribellamy@icloud.com](mailto:henribellamy@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/henri-bellamy-232b5b28a/) · [email](mailto:henribellamy@icloud.com)
